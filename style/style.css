@@ -48,7 +48,7 @@
         font-size: 1.2em;
         text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.262);
         font-family: var(--fonte-padrao);
-        margin-bottom: 20px;
+        padding-bottom: 50px;
     }
 
     header > h1 {
